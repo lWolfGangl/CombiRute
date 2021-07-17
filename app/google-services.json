@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913123970394",
+    "project_id": "combirute-9ce23",
+    "storage_bucket": "combirute-9ce23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913123970394:android:215900721d3e78034c7763",
+        "android_client_info": {
+          "package_name": "com.example.combiruteapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913123970394-vh2b0r9r9ebni93ivh331td7673tgo6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYT9rAviZWaqaH5fY9JobOEUAxpibbXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913123970394-vh2b0r9r9ebni93ivh331td7673tgo6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
